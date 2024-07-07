@@ -1,8 +1,7 @@
 
 ===================Access Modifier=====================
 
-1. Public
-2. Protected
-3. Private
+1. Public (Can be used from everywhere)
+2. Protected (Can be used in own class and derived class(child class))
+3. Private (Can be used only in own class)
 
-25.42
